@@ -72,4 +72,4 @@ Several design decisions were made during the development of this system:
 ## Video Demo
 
 [Project Demo Video](https://www.youtube.com/watch?v=hIf50gvpSkc&ab_channel=%E6%9D%B1%E9%A2%A8%E7%A5%9E) 
-(https://img.youtube.com/vi/hIf50gvpSkc&ab_channel=東風神/0.jpg)](https://www.youtube.com/watch?v=hIf50gvpSkc&ab_channel=東風神)
+[![Project Demo Video](https://img.youtube.com/vi/hIf50gvpSkc/0.jpg)](https://www.youtube.com/watch?v=hIf50gvpSkc) 
