@@ -1,5 +1,9 @@
 # The Bank Defence System
 
+## Video Demo
+
+[Project Demo Video](https://www.youtube.com/watch?v=hIf50gvpSkc&ab_channel=%E6%9D%B1%E9%A2%A8%E7%A5%9E) 
+
 ## Project Overview
 
 This project implements a simple command-line based bank account management system using Python. It simulates basic banking operations like creating an account, depositing funds (referred to as "saving" in the code), withdrawing funds, and viewing the current account balance. The system interacts with the user through text prompts and provides feedback on transactions.
@@ -68,8 +72,4 @@ Several design decisions were made during the development of this system:
     python3 -m pytest
     ```
     This will automatically discover and run the tests in `test_project.py`.
-
-## Video Demo
-
-[Project Demo Video](https://www.youtube.com/watch?v=hIf50gvpSkc&ab_channel=%E6%9D%B1%E9%A2%A8%E7%A5%9E) 
 
